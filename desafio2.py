@@ -108,7 +108,7 @@ def main():
     AGENCIA = "0001"
 
     saldo = 0
-    limite = 500
+    limite = 1000
     extrato = ""
     numero_saques = 0
     usuarios = []
